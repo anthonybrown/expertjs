@@ -102,6 +102,9 @@ body {
   }
   pre, code { font-size: .77em; margin-left: 0; padding-left: 0; text-align: left; }
 
+        #main h1 {
+          margin: 0.67em 0 0 .77em;
+        }
 /*==========================================================================
    Footer Style
    Author Tony Brown
